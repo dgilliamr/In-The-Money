@@ -1,42 +1,28 @@
-Winning Poker Network Game #1081326940: No Limit Holdem (25/50) [2017/12/22 17:59:45 UTC]
+Winning Poker Network Game #1292108558: No Limit Holdem (75/150) [2018/10/16 06:50:34 UTC]
 Table: $10 Regular 9-Max, Table 1
-Tournament: 8140214
+Tournament: 9100065
 Seats: 9
-Seat 1: W1renut (1,439)
-Seat 2: Truck1536 (3,141)
-Seat 3: allegro88 (1,670)
-Seat 5: unclepete55 (1,721)
-Seat 6: Cutch123 (1,310)
-Seat 7: cobblestoner (1,201)
-Seat 8: otlichno (1,215)
-Seat 9: O.G. SKARFINGER (1,803)
-Button is seat 8
-O.G. SKARFINGER: posts small blind 25
-W1renut: posts big blind 50
+Seat 1: Slizic (1,705)
+Seat 3: ShikeUB (1,461)
+Seat 5: Davey_Flopit (842)
+Seat 6: unclepete55 (2,403)
+Seat 9: Zadrot (7,089)
+Button is seat 3
+Davey_Flopit: posts small blind 75
+unclepete55: posts big blind 150
 *** HOLE CARDS ***
-unclepete55: dealt [Qh Qs]
-Truck1536: folds
-allegro88: folds
-unclepete55: calls 50
-Cutch123: folds
-cobblestoner: folds
-otlichno: raises 200
-O.G. SKARFINGER: folds
-W1renut: raises 300
+unclepete55: dealt [Td 4d]
+Zadrot: folds
+Slizic: folds
+ShikeUB: raises all-in 1,461
+Davey_Flopit: folds
 unclepete55: folds
-otlichno: raises all-in 1,015
-W1renut: calls 865
-*** FLOP *** [Qc Ah 8s]
-*** TURN *** [Qc Ah 8s] [3h]
-*** RIVER *** [Qc Ah 8s] [3h] [2h]
+ShikeUB: pulls back uncalled bet 1,311
+ShikeUB: mucks
 *** SUMMARY ***
-Pot: 2,505 | Rake: 0 |
-Board: [Qc Ah 8s 3h 2h]
-Seat 1: W1renut lost -1,215 [Ks Ad] One Pair, Aces
-Seat 2: Truck1536 didn't bet
-Seat 3: allegro88 didn't bet
-Seat 5: unclepete55 lost -50
-Seat 6: Cutch123 didn't bet
-Seat 7: cobblestoner didn't bet
-Seat 8: otlichno won 2,505 (+1,290) [8c 8d] Three of a Kind, Eights
-Seat 9: O.G. SKARFINGER lost -25
+Pot: 375 | Rake: 0 |
+Seat 1: Slizic didn't bet
+Seat 3: ShikeUB won 375 (+225)
+Seat 5: Davey_Flopit lost -75
+Seat 6: unclepete55 lost -150
+Seat 9: Zadrot didn't bet
